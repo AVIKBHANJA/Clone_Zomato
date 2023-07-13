@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.allsection {
+    min-height: 2000%;
+    /* width: 100%; */
+    margin: 40px 220px;
+    padding: 10px;
+}
